@@ -23,3 +23,4 @@ La integración de bases de datos relacionales y NoSQL, junto con la transformac
 La información extraída de la gran cantidad de datos de los diferentes temas tratados es en sitios web como Kaggle y Wikipedia
 
 # Analisis y visualizacion de los datos obtenidos
+Para garantizar la calidad e integridad de los datos utilizados en el proyecto, se llevaron a cabo diversas técnicas de análisis, limpieza y transformación de datos como la limpieza y Transformación de Datos, Análisis de Datos y Visualización de Datos
